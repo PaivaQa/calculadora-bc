@@ -26,7 +26,7 @@ Este projeto consiste em uma calculadora simples desenvolvida em JavaScript, jun
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-com-testes.git
+   git clone https://github.com/paivaqa/calculadora-com-testes.git
    ```
 2. **Instale as dependências:**
    ```bash
